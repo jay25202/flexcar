@@ -1,2 +1,6 @@
 # flexcar
 This project Car Rental System is a web-based online system because it's easier for the customers to rent a car.
+This project Car Rental System has been provided car history details, insurance registration and expiration details, car check in and check out details, car servicing details, payment details etc. This project also have to facility to check their customers and suppliers details and their payment mode and status details along with date and time. First time customers will have to create a profile if they are taking a car on rent and select the appropriate payment mode. 
+However driver are taking this service by visiting the office, they will get their id and password. Customers will have the facility to select any type of car, search car by their brand name. Upon selection of particular type customers will able to get their entire details like rent type, cost for taking a particular car, mileage details in kilometer an hour. This system can also help for customers to fill the basic information details like name address , total number of family members who also travel through the car, number of days to take service, location to travel etc. The main aim of this project car rental system project is to maintain records of cars.
+ 
+![image](https://github.com/user-attachments/assets/9f1554fd-628e-4266-bdcf-70d832f86257)
